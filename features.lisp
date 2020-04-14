@@ -1,4 +1,4 @@
-:abcl1.5.0
+:abcl1.6.0
 #| all features implemented |#
 
 :allegro8.2-9.0
@@ -228,7 +228,7 @@
  (:subclasses-of-standard-slot-definition-do-not-inherit-exported-slots)
  (:subclasses-of-standard-writer-method-do-not-inherit-exported-slots))
 
-:lispworks6.0.1-7.0.0
+:lispworks6.0.1-7.1.2
 ((:add-method-calls-compute-discriminating-function)
  (:add-method-updates-specializer-direct-generic-functions fixed)
  (:class-default-initargs)
@@ -316,7 +316,7 @@
  (:subclasses-of-standard-slot-definition-do-not-inherit-exported-slots)
  (:subclasses-of-standard-writer-method-do-not-inherit-exported-slots))
 
-:sbcl1.5.8
+:sbcl2.0.3
 #| all features implemented |#
 
 :scl1.3.9

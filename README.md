@@ -5,18 +5,18 @@ Closer to MOP is also provided by [Quicklisp](https://www.quicklisp.org/).
 
 Currently, the following Common Lisp implementations are supported:
 * Allegro Common Lisp 10.1 Express Edition
-* Armed Bear Common Lisp 1.5.0
+* Armed Bear Common Lisp 1.6.0
 * CLisp 2.49
 * Clozure Common Lisp 1.11.6
 * CMU Common Lisp 21d
 * Embeddable Common Lisp 16.1.3
-* LispWorks 7.0.0 Hobbyist Edition
-* Steel Bank Common Lisp 1.5.8
+* LispWorks 7.1.2 Hobbyist Edition
+* Steel Bank Common Lisp 2.0.3
 
 The following implementations were supported in the past:
 * Allegro Common Lisp 7.0, 8.0 - 8.2 Enterprise Editions
 * Allegro Common Lisp 9.0, 10.0 Express Editions
-* Armed Bear Common Lisp 1.1.1, 1.2.1, 1.3.0-1.3.3, 1.4.0
+* Armed Bear Common Lisp 1.1.1, 1.2.1, 1.3.0-1.3.3, 1.4.0, 1.5.0
 * CLisp from 2.35 onward
 * Clozure Common Lisp 1.2 - 1.11
 * CMU Common Lisp 19c-f, 20a-f, 21a-c
@@ -26,6 +26,7 @@ The following implementations were supported in the past:
 * LispWorks 6.0, 6.0.1 Enterprise Editions
 * LispWorks 6.1, 6.1.1, Professional Editions
 * LispWorks 6.1.1 Personal Edition
+* LispWorks 7.0.0 Hobbyist Edition
 * Macintosh Common Lisp 5.1, 5.2.1
 * OpenMCL 1.0
 * Scieneer Common Lisp 1.3.9
